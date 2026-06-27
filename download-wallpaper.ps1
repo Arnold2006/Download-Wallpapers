@@ -1,3 +1,5 @@
+# Needs Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 # Number of images to download
 $Count = 10
 
